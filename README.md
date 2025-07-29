@@ -30,9 +30,7 @@
   <a href="https://github.com/Abd-Elrahman-hany-Rawash" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   </a>
-  <a href="https://leetcode.com/u/Abd_elrahman_hany0/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="28" alt="LeetCode" />
-  </a>
+ 
 </p>
 
 ## 🛠️ Languages & Tools
@@ -47,9 +45,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abd-Elrahman-hany-Rawash&show_icons=true&theme=tokyonight" width="48%" style="vertical-align: top;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abd-Elrahman-hany-Rawash&layout=compact&theme=tokyonight" width="48%" style="vertical-align: top;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abd-Elrahman-hany-Rawash&show_icons=true&theme=tokyonight" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abd-Elrahman-hany-Rawash&layout=compact&theme=tokyonight" height="200" />
 </div>
+
  
 
 ---
