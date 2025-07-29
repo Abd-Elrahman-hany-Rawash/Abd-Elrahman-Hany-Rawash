@@ -23,30 +23,29 @@
   <a href="https://www.linkedin.com/in/abd-elrahman-hany-0534b31b2/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/Abd_elrahman_hany0/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="40" alt="LeetCode" />
-  </a>
   <a href="https://github.com/Abd-Elrahman-hany-Rawash" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/Abd_elrahman_hany0/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="28" alt="LeetCode" />
   </a>
 </p>
 
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,spring,git,github,maven,mysql,postman" height="50" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,dart,spring,git,github,maven,mysql,postman,idea" height="50" />
 </p>
+
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abd-Elrahman-hany-Rawash&show_icons=true&theme=tokyonight" width="60%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abd-Elrahman-hany-Rawash&layout=compact&theme=tokyonight" width="50%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abd-Elrahman-hany-Rawash&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abd-Elrahman-hany-Rawash&layout=compact&theme=tokyonight" width="48%" />
+</div>
 
 ---
 
