@@ -13,37 +13,47 @@
 
 ## 🛠️ Tech Stack & Tools
 
-### 👨‍💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-808080?style=for-the-badge&logoColor=white)
+### 👨‍💻 Programming Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp" height="40" />
+  <img src="https://img.shields.io/badge/Assembly-808080?style=for-the-badge&logoColor=white" height="28" />
+</p>
 
-### 🚀 Backend Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-4CAF50?style=for-the-badge&logo=spring-security&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=rest&logoColor=white)
-![Validation](https://img.shields.io/badge/Validation-008000?style=for-the-badge)
-![Exception Handling](https://img.shields.io/badge/Exception_Handling-DD0031?style=for-the-badge)
+### 🚀 Backend Frameworks  
+<p>
+  <img src="https://skillicons.dev/icons?i=spring" height="40" />
+  <img src="https://img.shields.io/badge/Spring_Security-4CAF50?style=for-the-badge&logo=spring-security&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=rest&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Validation-008000?style=for-the-badge" height="28" />
+  <img src="https://img.shields.io/badge/Exception_Handling-DD0031?style=for-the-badge" height="28" />
+</p>
 
-### 🗃️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+### 🗃️ Databases  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="28" />
+</p>
 
-### 📚 ORM & JPA
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge)
+### 📚 ORM & JPA  
+<p>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge" height="28" />
+</p>
 
-### 💻 CS Fundamentals
-![OOP](https://img.shields.io/badge/OOP-FF9800?style=for-the-badge)
-![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-blueviolet?style=for-the-badge)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-1E90FF?style=for-the-badge)
+### 💻 CS Fundamentals  
+<p>
+  <img src="https://img.shields.io/badge/OOP-FF9800?style=for-the-badge" height="28" />
+  <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-blueviolet?style=for-the-badge" height="28" />
+  <img src="https://img.shields.io/badge/Problem_Solving-1E90FF?style=for-the-badge" height="28" />
+</p>
 
-### 🧰 Tools & Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+### 🧰 Tools & Version Control  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,maven,linux" height="40" />
+</p>
 
+
+---
 
 ### 📊 GitHub Stats
 
@@ -55,8 +65,21 @@
 ---
 
 ### 🔗 Contact Me
-📧 Email: [abdohany200000@gmail.com](mailto:abohany200000@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+
+<p align="left">
+  <a href="mailto:abohany200000@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/abd-elrahman-hany-0534b31b2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://leetcode.com/u/Abd_elrahman_hany0/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+  <a href="https://github.com/Abd-Elrahman-hany-Rawash" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 ---
 
